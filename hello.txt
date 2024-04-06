@@ -15,3 +15,5 @@ git create branch process
 how to chekc no of branches
 
 1. git branch 
+
+check git status
