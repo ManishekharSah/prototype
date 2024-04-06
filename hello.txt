@@ -1,0 +1,17 @@
+git commands for setup 
+git clone link .
+
+git basic commands
+1. git add . 
+2. git commit -m "commit message"
+3. git pull origin main{ branch name}
+3. git push origin main
+
+git create branch process
+
+1. git branch  {branch-name}
+2. git checkout {branch-name}
+
+how to chekc no of branches
+
+1. git branch 
